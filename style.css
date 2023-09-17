@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+}
+img{
+    width: 40%;
+    height: 30%;
+    border: 5px solid white;
+    }
+div{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 4%;
+}
+h1{
+    color: white;
+}
+p{
+    color : white;
+}
